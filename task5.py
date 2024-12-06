@@ -32,7 +32,7 @@ tools = [
 ]
 
 
-client = ZhipuAI(api_key="de081fb1e13619e6d979ae271042eac5.a8whmZ0FG24RRPDF")  
+client = ZhipuAI(api_key="Your_api_key")  
 # 初始化消息
 messages = [{"role": "user", "content": f"我想知道129032910921*188231"}]
 
